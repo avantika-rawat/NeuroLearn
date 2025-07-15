@@ -2,7 +2,7 @@
 
 **NeuroLearn** is a beautifully animated, fully responsive front-end website built using **HTML**, **CSS**, **JavaScript**, and powered by **GSAP** (GreenSock Animation Platform) for seamless animations and interactive transitions.
 
- [Live demo](neuro-learn.netlify.app)
+ [Live demo](https://neuro-learn.netlify.app/)
 
 ---
 
