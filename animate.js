@@ -1,3 +1,4 @@
+
 // Navbar animation
 gsap.from(".navbar", {
   y: -80,

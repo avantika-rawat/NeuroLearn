@@ -1,3 +1,4 @@
+
 // Hamburger Menu Toggle
 const hamburgerIcon = document.getElementById('hamburger-icon');
 const navbarLinks = document.querySelector('.navbar-links');
